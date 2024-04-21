@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4298e5503aa2d14e",
+        "id": "2c5b8a0ff89bc802",
         "type": "tabs",
         "children": [
           {
-            "id": "f69f6b1ae9b3312d",
+            "id": "aca47315bccf830a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "f69f6b1ae9b3312d",
+  "active": "aca47315bccf830a",
   "lastOpenFiles": [
     "wasm/20240421.md",
     "wasm",
