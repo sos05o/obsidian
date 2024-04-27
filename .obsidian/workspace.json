@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200.5,
+    "collapsed": true
   },
   "right": {
     "id": "976baf540a11d19c",
@@ -148,12 +150,12 @@
   },
   "active": "77a77f7132989dcd",
   "lastOpenFiles": [
-    "aws/20240424.md",
     "aws/用語説明.md",
+    "wasm/20240421.md",
+    "aws/20240424.md",
     "aws",
     "etc/20240421.md",
     "etc",
-    "wasm/20240421.md",
     "wasm",
     "seeds/Hello, World!!!.md",
     "seeds/2024-04-21.md",
