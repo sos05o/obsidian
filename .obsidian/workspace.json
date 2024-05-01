@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sageMaker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200.5,
+    "collapsed": true
   },
   "right": {
     "id": "976baf540a11d19c",
@@ -147,7 +148,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "77a77f7132989dcd",
+  "active": "a93935357c301f37",
   "lastOpenFiles": [
     "aws/用語説明.md",
     "wasm/20240421.md",
