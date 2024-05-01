@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "adf39df4e527f00f",
+        "id": "3a072e187dbe5008",
         "type": "tabs",
         "children": [
           {
-            "id": "679be9eff7581e2e",
+            "id": "e5690fd9051aacc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "aws/用語説明.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "aws/用語説明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "aws/用語説明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "aws/用語説明.md"
+              }
             }
           }
         ]
@@ -140,8 +147,9 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "679be9eff7581e2e",
+  "active": "e5690fd9051aacc0",
   "lastOpenFiles": [
+    "無題のファイル.canvas",
     "aws/用語説明.md",
     "wasm/20240421.md",
     "aws/20240424.md",
@@ -152,7 +160,6 @@
     "seeds/Hello, World!!!.md",
     "seeds/2024-04-21.md",
     "無題のファイル 1.canvas",
-    "無題のファイル.canvas",
     "seeds"
   ]
 }
