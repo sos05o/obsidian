@@ -99,3 +99,7 @@ Todo
 - データベース: Firebase Firestore または AWS DynamoDB
 - リアルタイム通信: WebSocket または Firebase Realtime Database
 - ホスティング: Firebase Hosting または AWS Amplify
+# コンソール上で動くリアルタイムチャットアプリ
+
+[参照](https://chat.openai.com/share/42ecaf98-285e-425a-912d-c73051af7d7c)
+
